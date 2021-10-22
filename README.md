@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejesquivel
 - 👀 I’m interested in Financial Analytics, Engineering, and Technology! 
-- 🌱 I’m currently learning AWS, Javascript, and Python
+- 🌱 I’m always learning! But lately focused on PHP, Python, Solidity, and SQL. 
 - 💞️ I’m looking to collaborate on opensource FinTech programs, AI/ ML, and anything cool! 
 - 📫 How to reach me: esquivelan01@gmail.com; alejandro@econofeverything.com
 
